@@ -3,7 +3,7 @@
 <a href="https://https://www.instagram.com/eddiegomess1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/edugomes514/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🌱 I’m currently learning HTML, CSS, JS
+
 
 
   <a href="https://github.com/EdwardGomes">
