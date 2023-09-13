@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EdwardGomes.EdwardGomes&"  />
-</div>
-
-###
-
 <h1 align="center">hello there 👋</h1>
 
 ###
