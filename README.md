@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EdwardGomes/EdwardGomes/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/EdwardGomes/blob/output/github-contribution-grid-snake.gif)
 
 ###
